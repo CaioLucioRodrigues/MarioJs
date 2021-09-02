@@ -1,0 +1,26 @@
+{
+  "name": "mariojs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve ./public",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CaioLucioRodrigues/MarioJs.git"
+  },
+  "keywords": [
+    "Mario"
+  ],
+  "author": "Caio Lucio Rodrigues",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CaioLucioRodrigues/MarioJs/issues"
+  },
+  "homepage": "https://github.com/CaioLucioRodrigues/MarioJs#readme",
+  "dependencies": {
+    "serve": "^12.0.0"
+  }
+}
